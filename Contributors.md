@@ -7535,4 +7535,5 @@ Stephen kihuni
 - [Anup Kewat](https://github.com/anupkewat)
 - [Tom Middleditch](https://github.com/Tomstar2000)
 - [Mayukhdeep Mathur](https://github.com/mayukhdeep12)
+- [Aayush Gupta](https://github.com/ppap1771)
 <!-- prettier-ignore-end -->
